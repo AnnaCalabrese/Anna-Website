@@ -680,7 +680,10 @@ section {
   background: #ffb727;
 }
 
-
+@media (max-width: 380px) {
+  .cta {
+    padding: 10px;
+  }}
 
 .form {
   background: #fff;
