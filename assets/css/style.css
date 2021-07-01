@@ -788,6 +788,8 @@ section {
   border-radius: 0%;
 }
 
+@media (min-width: 450px) {
+  
 @keyframes bounce {
   0% {
     tranform: translate(0, 4px);
@@ -795,8 +797,7 @@ section {
   50% {
     transform: translate(0, 8px);
   }
-} 
-
+} }
 
 
 /*--------------------------------------------------------------
