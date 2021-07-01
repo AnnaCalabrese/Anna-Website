@@ -797,14 +797,7 @@ section {
   }
 } 
 
-@media (max-width: 380px) {
-  @keyframes bounce {
-    0% {
-      tranform:0;
-    }
-    0% {
-      transform: 0;
-    }}
+
 
 /*--------------------------------------------------------------
 # Footer
